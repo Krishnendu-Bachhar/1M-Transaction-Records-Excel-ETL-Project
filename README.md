@@ -48,19 +48,19 @@ To answer key business questions:
 
 
 ### 🔹 1. Merchant Segmentation
-![Merchant Segmentation](asset/Merchant%20Segmentation.png)
+![Merchant Segmentation](assets/Merchant%20Segmentation.png)
 
 
 ### 🔹 2. Monthly Transaction Trend
-![Monthly Transaction Trend](asset/Monthly%20Transaction%20Trend.png)
+![Monthly Transaction Trend](assets/Monthly%20Transaction%20Trend.png)
 
 
 ### 🔹 3. Transaction Method
-![Transaction Method](asset/Transaction%20Method.png)
+![Transaction Method](assets/Transaction%20Method.png)
 
 
 ### 🔹 4. Executive Summary
-![Executive Summary](asset/Executive%20Summary.png)
+![Executive Summary](assets/Executive%20Summary.png)
 
 
 
